@@ -1,0 +1,348 @@
+{
+  "primeraGeneracion": {
+    "titulo1": "INICIO DE LA ERA DE LAS COMPUTADORAS",
+    "text1": "La primera generación de computadoras abarca la década de 1940 a principios de la década de 1950. Durante este período, se desarrollaron las primeras máquinas electrónicas capaces de realizar cálculos complejos.",
+
+    "titulo2": "Tecnología de Válvulas de Vacío",
+    "text2": "Los primeros computadores, utilizaban tubos al vacío para circuitos y tambores magnéticos para la memoria y ocupaban cuatros enteros. Un tambor magnético, es un cilindro de metal recubierto con material magnético de óxido de hierro en que los datos y los programas pueden ser almacenados. Estos eran utilizados como dispositivos de almacenamiento primario, pero desde entonces se han implementado como dispositivos de almacenamiento auxiliar.",
+
+    "titulo3": "ENIAC - La Primera Computadora Electrónica",
+    "text3": "El ENIAC (Electronic Numerical Integrator and Computer)  fue diseñada y construida durante la Segunda Guerra Mundial en los Estados Unidos. Fue desarrollado en la Universidad de Pensilvania por J. Presper Eckert y John W. Mauchly, y se completó en 1945. El ENIAC fue una de las primeras máquinas electrónicas programables, y su objetivo principal era realizar cálculos balísticos para el ejército de los Estados Unidos. Era una máquina enorme, ocupando un espacio de aproximadamente 15 metros de largo y 2.4 metros de alto, y pesaba alrededor de 30 toneladas. La máquina operaba con casi 18,000 tubos de vacío y tenía más de 7,000 interruptores, lo que hacía que su programación y operación fueran bastante complejas. Los cálculos se realizaban de manera decimal y el ENIAC podía realizar hasta 5,000 sumas o 300 multiplicaciones por segundo, lo que era impresionante para su época.",
+
+    "finalText1": "Las primeras computadoras de esta generación eran extremadamente lentas en comparación con las computadoras modernas. El tiempo requerido para realizar un cálculo era de varios segundos o incluso minutos. Además, los tubos de vacío eran propensos a fallar y requerían un mantenimiento regular. A pesar de sus limitaciones, la primera generación de computadoras sentó las bases para futuros avances en la tecnología de la computación. Estas máquinas lograron realizar tareas complejas que anteriormente eran impensables y demostraron el potencial de la computación electrónica. En resumen, la primera generación de computadoras consistió en máquinas gigantes que utilizaban tubos de vacío para realizar cálculos y procesar datos. Estas computadoras fueron extremadamente grandes, lentas y requerían un mantenimiento regular. Sin embargo, sentaron las bases para futuros desarrollos en la tecnología de la computación y fueron un hito importante en la historia de la informática.",
+    "finalText2": "Durante esta época, la programación de las computadoras se realizaba principalmente a través de tarjetas perforadas. Estas tarjetas tenían agujeros que representaban instrucciones y datos, y se enlazaban en secuencias para ejecutar programas. La entrada y salida de datos también se realizaba a través de tarjetas perforadas, cintas magnéticas y teletipos. El hardware de esta época sentó las bases para las generaciones de computadoras posteriores, que verían avances significativos en tamaño, velocidad y capacidad de procesamiento.",
+
+    "finalTitulo": "La Generación Tecnológica: Los Nativos Digitales",
+
+    "slider1": [
+      "/primerageneracion/2.jpeg",
+      "/primerageneracion/3.jpeg",
+      "/primerageneracion/4.jpeg",
+      "/primerageneracion/5.jpeg"
+    ],
+
+    "slider2": [
+      "/primerageneracion/6.jpeg",
+      "/primerageneracion/7.jpeg",
+      "/primerageneracion/8.jpeg",
+      "/primerageneracion/9.jpeg",
+      "/primerageneracion/10.jpeg"
+    ],
+
+    "img": ["/primerageneracion/11.jpeg", "/primerageneracion/12.jpeg"]
+  },
+
+
+
+  "segundaGeneracion": {
+    "titulo1": "SEGUNDA GENERACIÓN",
+    "text1": "La segunda generación de computadoras se refiere a un período que abarcó desde aproximadamente 1959 hasta 1964. Durante esta época, se produjeron importantes avances en la tecnología informática que llevaron a mejoras significativas en el rendimiento y la capacidad de las computadoras. La segunda generación de computadoras se caracterizó por el uso de transistores en lugar de tubos de vacío, que habían sido utilizados en la primera generación. Los transistores son más pequeños, más rápidos y más fiables que los tubos de vacío, lo que permitió la creación de computadoras más compactas, más eficientes y más poderosas. Uno de los hitos más destacados de la segunda generación de computadoras fue la invención del transistor en 1947 por los científicos John Bardeen, William Shockley y Walter Brattain en los Laboratorios Bell. Este avance permitió a los investigadores desarrollar computadoras que eran más rápidas, más confiables y menos propensas a fallar que las de la primera generación. Un ejemplo notable de computadora de segunda generación es la IBM 1401, que fue lanzada en 1959. Esta máquina fue ampliamente utilizada en empresas y organizaciones gubernamentales y se convirtió en uno de los modelos más populares de la época. Durante esta época, también se produjeron avances significativos en la capacidad de almacenamiento de las computadoras. Se introdujo la memoria de núcleo magnético, que permitía a las máquinas almacenar y acceder a información de forma más rápida y eficiente. Además, se desarrollaron sistemas de almacenamiento en cintas magnéticas y discos duros, que ampliaron aún más la capacidad de almacenamiento de datos. La segunda generación de computadoras también se caracterizó por el desarrollo de lenguajes de programación de mayor nivel, como COBOL (Common Business-Oriented Language) y FORTRAN (Formula Translation). Estos lenguajes facilitaron la programación y permitieron a un número mayor de personas escribir y comprender código de computadora. En términos de aplicaciones, la segunda generación de computadoras se utilizó en una amplia variedad de industrias y campos, incluyendo la investigación científica, el sector financiero, la industria militar y la administración gubernamental. En conclusión, la segunda generación de computadoras representa un período clave en la evolución tecnológica de las máquinas, donde los transistores reemplazaron a los tubos de vacío, se produjeron avances en la capacidad de almacenamiento, se desarrollaron lenguajes de programación de mayor nivel y se ampliaron las posibilidades de aplicación de las computadoras en diferentes campos..",
+
+    "titulo2": "Reducción de Tamaño y Mejora en el Rendimiento",
+    "text2": "El uso de transistores permitió reducir el tamaño de las computadoras y mejorar su rendimiento. Esto llevó a máquinas más compactas, eficientes y confiables en comparación con sus predecesoras. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.",
+
+    "titulo3": "IBM 1401 y UNIVAC 1107",
+    "text3": "Durante esta época, se introdujeron computadoras destacadas como la IBM 1401 y la UNIVAC 1107. Estas máquinas eran más pequeñas, más rápidas y tenían una mayor capacidad de almacenamiento en comparación con las de la primera generación. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.",
+
+    "finalText1": "La transición a los transistores marcó una mejora significativa en la tecnología, lo que resultó en computadoras más potentes y eficientes. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.",
+    "finalText2": "La segunda generación allanó el camino para el desarrollo continuo de la informática, sentando las bases para futuras innovaciones en hardware y software. Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.",
+
+    "finalTitulo": "Este sera el titulo final de la segunda generacion",
+
+    "slider1": [
+      "/segundaGeneracion/1.jpeg",
+      "/segundaGeneracion/2.jpeg",
+      "/segundaGeneracion/22.jpeg",
+      "/segundaGeneracion/3.jpeg",
+      "/segundaGeneracion/9.jpeg"
+    ],
+
+    "slider2": [
+      "/segundaGeneracion/33.jpeg",
+      "/segundaGeneracion/4.jpeg",
+      "/segundaGeneracion/5.jpeg",
+      "/segundaGeneracion/8.jpeg"
+    ],
+
+    "img": [
+      "/segundaGeneracion/6.jpeg",
+      "/segundaGeneracion/7.jpeg",
+      "/segundaGeneracion/44.jpeg"
+    ]
+  },
+  "terceraGeneracion": {
+    "titulo1": "TERCERA GENERACIÓN",
+    "text1": "En la década del 60, el desarrollo de los circuitos integrados fue la marca de la tercera generación. Los transistores fueron minimizados y puestos en placas de silicón, llamados semiconductores, los cuales incrementaron drásticamente la velocidad y eficiencia de los computadores. El Burroughs B-2500 fue uno de los primero y estos podían almacenar millones de números. Surgen conceptos como memoria virtual, multiprogramación y sistemas operacionales complejos. Ejemplos de esta época son el IBM 360 y el BURROUGHS B-3500. En 1960 existían cerca de 5.000 computadores en los EUA. Es de esta época el término software. En 1964, la CSC, Computer Science Corporation, creada en 1959 con un capital de 100 dólares, se transformó en la primera compañía de software con acciones negociadas en bolsa. El primer mini computador comercial surgió en 1965, el PDP-5, dependiendo de su configuración y accesorios él podía ser adquirido por US$ 18,000.00. Le siguió el PDP-8, de precio más competitivo. Siguiendo su camino otras compañías lanzaron sus modelos, haciendo que a finales de la década ya existieran cerca de 100.000 computadores esparcidos por el mundo. En 1970 INTEL introdujo en el mercado un nuevo tipo de circuito integrado: el microprocesador. El primero fue el 4004, de cuatro bits. A partir de ahí surgen los microcomputadores. ",
+
+    "titulo2": "La Era de los Circuitos Integrados",
+    "text2": "En la tercera generación, se produjo un cambio trascendental al emplear circuitos integrados, donde múltiples transistores y otros componentes se integraban en un solo chip. Esta innovación permitió una mayor densidad de componentes y una mejora significativa en la velocidad y eficiencia de procesamiento.",
+
+    "titulo3": "Mainframes y Minicomputadoras",
+    "text3": "La tercera generación vio la introducción de mainframes, potentes sistemas centrales utilizados en grandes empresas para gestionar grandes cantidades de datos y operaciones críticas. Paralelamente, las minicomputadoras ofrecieron soluciones más compactas y asequibles para tareas específicas.",
+
+    "finalText1": "Surgieron lenguajes de programación más avanzados, como COBOL (Common Business-Oriented Language) y FORTRAN (Formula Translation), diseñados para facilitar el desarrollo de software. Estos lenguajes permitieron una programación más estructurada y eficiente.",
+    "finalText2": "La transición de las tarjetas perforadas a las terminales marcó una evolución en la interfaz hombre-máquina. Las terminales interactivas permitían a los usuarios comunicarse directamente con la computadora, facilitando la entrada y salida de datos de manera más eficiente. La tercera generación tuvo un impacto profundo en la sociedad al hacer que las computadoras fueran más accesibles para empresas y organizaciones. Esto condujo a cambios significativos en la gestión de datos, procesos comerciales y la forma en que las personas interactuaban con la tecnología. El legado de la tercera generación persiste en la tecnología actual. Los conceptos introducidos, como los circuitos integrados y los lenguajes de programación evolucionados, sentaron las bases para desarrollos posteriores en la informática y continúan influyendo en el diseño de sistemas modernos.",
+
+    "finalTitulo": "Impacto en la Sociedad y la Industria",
+
+    "slider1": [
+      "/public/terceraGeneracion/a.jpeg",
+      "/public/terceraGeneracion/b.jpeg",
+      "/public/terceraGeneracion/c.jpeg",
+      "/public/terceraGeneracion/d.jpeg"
+    ],
+
+    "slider2": [
+      "/public/terceraGeneracion/f.jpeg",
+      "/public/terceraGeneracion/g.jpeg",
+      "/public/terceraGeneracion/g.jpeg"
+    ],
+
+    "img": [
+      "/public/terceraGeneracion/e.jpeg",
+      "/public/terceraGeneracion/i.jpeg",
+      "/public/terceraGeneracion/j.jpeg"
+    ]
+  },
+  "cuartaGeneracion": {
+    "titulo1": "LA REVOLUCION DE LA CUARTA GENERACIÓN DE COMPUTADORAS",
+    "text1": "En esta generación se denota el reemplazo de las memorias de núcleos magnéticos por memorias de chips de silicio y, la incorporación de muchos más componentes en un chip como producto de la miniaturización de los circuitos. El tamaño reducido el microprocesador hizo posible la creación de las computadoras personales. En 1971, Intel, presenta el primer microprocesador o Chip de 4 bits, que en un espacio de aproximadamente 4 x 5 mm contenía 2 250 transistores. Este primer microprocesador fue bautizado como el 4004. Surgieron una gran cantidad de fabricantes de computadoras personales, que utilizan diferentes estructuras o arquitecturas, que compiten en el mercado. Esta generación de computadoras se caracterizó por grandes avances tecnológicos realizados en un tiempo muy corto. Los sistemas operativos han alcanzado un notable desarrollo, sobre todo por la posibilidad de generar gráficos a grandes velocidades, lo cual permite utilizar las interfaces con ventanas, iconos, menús desplegables para facilitar la comunicación entre usuario y sistema.",
+
+    "titulo2": "COMPUTACION PARALELA Y SUPERCOMPUTADORAS",
+    "text2": "Se introdujo la computación paralela, permitiendo que múltiples procesadores trabajaran simultáneamente. Surgieron supercomputadoras, como la Cray-1, capaces de realizar cálculos extremadamente complejos y avances significativos en campos como la simulación y la investigación científica.",
+
+    "titulo3": "Redes de Computadoras y Conectividad",
+    "text3": "La cuarta generación vio un aumento significativo en la conectividad. Surgieron redes de computadoras más avanzadas, facilitando la comunicación y el intercambio de información. El desarrollo de protocolos como TCP/IP fue fundamental para la expansión de Internet. Se produjo una revolución en el almacenamiento con la introducción de discos duros más compactos y capacidad mejorada. Además, se desarrollaron tecnologías multimedia, como CD-ROM y tarjetas de sonido, permitiendo una experiencia más rica en contenido.",
+
+    "finalText1": "La cuarta generación presenció un auge en el desarrollo de software y aplicaciones. Se crearon entornos de programación más avanzados, y la proliferación de software comercial y de código abierto contribuyó a la diversificación y expansión de las capacidades de las computadoras. Los sistemas operativos de la cuarta generación, como MS-DOS y MacOS, presentaban interfaces más amigables e intuitivas. Se popularizaron las interfaces gráficas de usuario (GUI), permitiendo a los usuarios interactuar con la computadora de manera visual y más eficiente.",
+    "finalText2": "La cuarta generación facilitó la movilidad con la introducción de laptops y dispositivos portátiles. Estos sistemas más livianos permitieron a las personas llevar consigo la potencia de una computadora, cambiando la dinámica de trabajo y comunicación. Se produjo una revolución en el almacenamiento con la introducción de discos duros más compactos y de mayor capacidad. Simultáneamente, surgieron tecnologías multimedia, como CD-ROM y tarjetas de sonido, enriqueciendo la experiencia del usuario con contenido multimedia. ",
+
+    "finalTitulo": "Desarrollo de Software y Aplicaciones",
+
+    "slider1": [
+      "/public/cuartaGeneracion/a.jpeg",
+      "/public/cuartaGeneracion/b.jpeg",
+      "/public/cuartaGeneracion/c.jpeg",
+      "/public/cuartaGeneracion/d.jpeg"
+    ],
+
+    "slider2": [
+      "/public/cuartaGeneracion/f.jpeg",
+      "/public/cuartaGeneracion/g.jpeg",
+      "/public/cuartaGeneracion/g.jpeg"
+    ],
+
+    "img": [
+      "/public/cuartaGeneracion/e.jpeg",
+      "/public/cuartaGeneracion/j.jpeg",
+      "/public/cuartaGeneracion/i.jpeg"
+    ]
+  },
+  "quintaGeneracion": {
+    "titulo1": "LA ERA DE LA QUINTA GENERACIÓN DE COMPUTADORAS",
+    "text1": "Las aplicaciones exigen cada vez más una mayor capacidad de procesamiento y almacenamiento de datos. Sistemas especiales, sistemas multimedia, bases de datos distribuidas y redes neuronales, son sólo algunos ejemplos de esas necesidades. Una de las principales características de esta generación es la simplificación y miniaturización del computador, además de mejor desempeño y mayor capacidad de almacenamiento. Todo eso, con los precios cada vez más accesibles. El concepto de procesamiento está yendo hacia los procesadores paralelos, o sea, la ejecución de muchas operaciones simultáneamente por las máquinas. La reducción de los costos de producción y del volumen de los componentes permitió la aplicación de estos computadores en los llamados sistemas embutidos, que controlan aeronaves, embarcaciones, automóviles y computadores de pequeño porte. Son ejemplos de esta generación de computadores, los micros que utilizan la línea de procesadores Pentium, de INTEL.",
+
+    "titulo2": "Computación Basada en Inteligencia Artificial",
+    "text2": "La quinta generación se caracteriza por el enfoque en la inteligencia artificial (IA). Las computadoras buscan simular procesos de pensamiento humano, realizando tareas como reconocimiento de voz, traducción automática y toma de decisiones autónoma. : Surgieron lenguajes de programación declarativos, como Prolog, diseñados para expresar reglas y relaciones lógicas. Estos lenguajes facilitaron la programación de sistemas expertos y aplicaciones basadas en reglas.",
+
+    "titulo3": "Conectividad Global y la Emergencia de Internet",
+    "text3": "La quinta generación consolidó la conectividad global con el crecimiento de Internet. La expansión de la World Wide Web y la adopción de protocolos como HTTP transformaron la forma en que la información se accede y comparte a nivel mundial. Se exploraron nuevos paradigmas de computación, incluida la computación cuántica. Esta tecnología utiliza qubits para realizar cálculos a velocidades sorprendentes, abriendo posibilidades revolucionarias en la resolución de problemas complejos.",
+
+    "finalText1": "La quinta generación trajo consigo debates sobre la ética en la tecnología. Se discuten temas como la privacidad en línea, la toma de decisiones autónoma y el impacto social de la inteligencia artificial, impulsando la reflexión sobre el uso responsable de estas tecnologías.",
+    "finalText2": "La quinta generación aborda la importancia del desarrollo sostenible en la tecnología. Se exploran tendencias futuras, como la integración de la IA en la vida cotidiana, el enfoque en la ciberseguridad y el papel de la computación en la resolución de desafíos globales. Se introdujeron procesadores superescalares, capaces de ejecutar múltiples instrucciones simultáneamente. La arquitectura avanzada optimizó la velocidad y eficiencia del procesamiento, mejorando el rendimiento general de las computadoras. La quinta generación vio el desarrollo de sistemas expertos, programas informáticos diseñados para imitar el conocimiento y la toma de decisiones de un experto humano en un campo específico. Esto permitió aplicaciones especializadas en medicina, finanzas y otras disciplinas.",
+
+    "finalTitulo": "Impacto en la Sociedad y Ética de la Tecnología",
+
+    "slider1": [
+      "/public/quintaGeneracion/a.jpeg",
+      "/public/quintaGeneracion/b.jpeg",
+      "/public/quintaGeneracion/c.jpeg",
+      "/public/quintaGeneracion/d.jpeg",
+      "/public/quintaGeneracion/n.jpeg",
+      "/public/quintaGeneracion/l.jpeg"
+    ],
+
+    "slider2": [
+      "/public/quintaGeneracion/f.jpeg",
+      "/public/quintaGeneracion/d.jpeg",
+      "/public/quintaGeneracion/g.jpeg"
+    ],
+
+    "img": [
+      "/public/quintaGeneracion/e.jpeg",
+      "/public/quintaGeneracion/j.jpeg",
+      "/public/quintaGeneracion/i.jpeg"
+    ]
+  },
+  "impactoEnLaSociedad": {
+    "titulo1": "TRANSFORMACION DE LA VIDA COTIDIANA EN LA SOCIEDAD",
+    "text1": "La ultima generación de computadoras ha llevado la inteligencia artificial a nuestros hogares, permitiendo la creación de entornos más inteligentes. Desde sistemas de gestión del hogar hasta asistentes virtuales como Siri y Alexa, la interacción diaria con la tecnología se ha vuelto más intuitiva y personalizada. La inteligencia artificial ha revolucionado la industria y el comercio, mejorando la eficiencia y la productividad. Desde la cadena de suministro hasta la personalización de productos y servicios, las empresas utilizan algoritmos avanzados para optimizar procesos y ofrecer experiencias más atractivas a los clientes.",
+
+    "titulo2": "Cambio en la Forma de Trabajar",
+    "text2": "La adopción de sistemas expertos y herramientas de inteligencia artificial ha transformado la dinámica laboral. Tareas repetitivas y rutinarias son automatizadas, liberando tiempo para la creatividad y la toma de decisiones estratégicas. El análisis avanzado de datos impulsa la eficiencia operativa y mejora la planificación empresarial.",
+
+    "titulo3": "Influencia en la Educación y la Investigación",
+    "text3": " La ultima generación de computadoras ha transformado la educación al ofrecer oportunidades de aprendizaje más personalizadas. La inteligencia artificial adapta los programas educativos para satisfacer las necesidades individuales de los estudiantes. En la investigación, la capacidad de procesar grandes conjuntos de datos impulsa avances significativos, desde el descubrimiento de medicamentos hasta la comprensión de fenómenos científicos complejos.",
+
+    "finalText1": "La ultima generación de computadoras ha dado lugar a nuevos modelos de negocio. Los servicios basados en la nube ofrecen escalabilidad y flexibilidad, permitiendo a las empresas adaptarse rápidamente a las demandas cambiantes. Plataformas de comercio electrónico avanzadas utilizan algoritmos para personalizar la experiencia del cliente, y el emprendimiento en el campo de la inteligencia artificial crea oportunidades innovadoras.",
+    "finalText2": "La ultima generación de computadoras ha despertado una conciencia más profunda sobre el desarrollo sostenible. Las tecnologías basadas en inteligencia artificial se aplican para abordar desafíos ambientales, desde la gestión eficiente de recursos hasta la predicción de eventos climáticos. La responsabilidad tecnológica se convierte en un componente esencial del diseño de soluciones para garantizar un impacto positivo y sostenible. A pesar del aumento en el acceso a la información, persisten desigualdades tecnológicas. La brecha digital plantea desafíos en términos de acceso equitativo a la tecnología. Abordar estas disparidades se vuelve crucial para garantizar la inclusión digital y social, con un enfoque en la educación y la accesibilidad.",
+
+    "finalTitulo": "Desarrollo Sostenible y Responsabilidad Tecnológica",
+
+    "slider1": [
+      "/public/impactoEnLaSociedad/1r.jpeg",
+      "/public/impactoEnLaSociedad/2r.jpeg",
+      "/public/impactoEnLaSociedad/3r.jpeg",
+      "/public/impactoEnLaSociedad/4r.jpeg",
+      "/public/impactoEnLaSociedad/5r.jpeg",
+      "/public/impactoEnLaSociedad/14r.jpeg",
+      "/public/impactoEnLaSociedad/15r.jpeg",
+      "/public/impactoEnLaSociedad/6r.jpeg"
+    ],
+
+    "slider2": [
+      "/public/impactoEnLaSociedad/7r.jpeg",
+      "/public/impactoEnLaSociedad/8r.jpeg",
+      "/public/impactoEnLaSociedad/9r.jpeg",
+      "/public/impactoEnLaSociedad/11r.jpeg",
+      "/public/impactoEnLaSociedad/11r.jpeg",
+      "/public/impactoEnLaSociedad/12r.jpeg",
+      "/public/impactoEnLaSociedad/20r.jpeg",
+      "/public/impactoEnLaSociedad/16r.jpeg"
+    ],
+
+    "img": [
+      "/public/impactoEnLaSociedad/17r.jpeg",
+      "/public/impactoEnLaSociedad/18r.jpeg",
+      "/public/impactoEnLaSociedad/19r.jpeg"
+    ]
+  },
+  "perspectivasFuturas": {
+    "titulo1": "EL FUTURO DE LAS COMPUTADORAS : PERSPECTIVAS Y TENDEENCIAS EMEERGENTES",
+    "text1": "La integración profunda de la tecnología en la sociedad exige una reflexión continua sobre cuestiones éticas y la formulación de marcos de gobernanza tecnológica. La responsabilidad ética en el desarrollo, implementación y uso de tecnologías emergentes se convierte en un imperativo. La creación de políticas y regulaciones que aborden cuestiones como la privacidad, la equidad y la transparencia se vuelve esencial para garantizar un desarrollo tecnológico ético y sostenible.",
+
+    "titulo2": "Computación Cuántica: Más Allá de los Bits Clásicos",
+    "text2": " La transición hacia la computación cuántica representa una revolución en la forma en que procesamos información. La utilización de qubits, aprovechando la superposición y el entrelazamiento cuántico, podría resolver problemas actualmente intratables para las computadoras clásicas. Desde simulaciones moleculares precisas hasta la optimización de complejas cadenas de suministro, la computación cuántica promete transformar fundamentalmente la resolución de problemas en diversas disciplinas.  A medida que la computación cuántica avanza, la seguridad cuántica se convierte en una prioridad crucial. La aplicación de principios cuánticos al cifrado busca garantizar la inviolabilidad de las comunicaciones en el futuro. Los protocolos cuánticos de clave pública y otros métodos emergentes se perfilan como soluciones para proteger datos sensibles ante la amenaza de algoritmos cuánticos de descifrado.",
+
+    "titulo3": "Inteligencia Artificial Generalizada: Hacia la Conciencia Computacional",
+    "text3": "La evolución de la inteligencia artificial se dirige hacia la creación de sistemas más generales y conscientes. La búsqueda de inteligencia artificial generalizada apunta a sistemas que no solo resuelven tareas específicas, sino que también pueden entender y aprender de manera contextual, emulando en ciertos aspectos la cognición humana. Este avance podría tener un impacto profundo en áreas como la toma de decisiones autónoma y la comprensión de contextos complejos.",
+
+    "finalText1": "La convergencia de la realidad aumentada (AR) y la realidad virtual (VR) da lugar a la realidad extendida (XR). Este enfoque busca una integración más fluida entre el mundo digital y físico, ofreciendo experiencias inmersivas que van más allá del entretenimiento. Desde la educación mejorada con AR hasta la simulación de entornos complejos en VR, la XR transformará cómo interactuamos con el mundo digital.",
+    "finalText2": "La búsqueda de soluciones sostenibles impulsa la agenda de la computación verde. Innovaciones en hardware eficiente, técnicas de refrigeración de bajo consumo y la transición hacia fuentes de energía renovable definen esta dirección. La responsabilidad ambiental en el diseño y la operación de sistemas informáticos se vuelve esencial para mitigar el impacto ambiental de la infraestructura tecnológica.  La integración profunda de la tecnología en la sociedad exige una reflexión continua sobre cuestiones éticas y la formulación de marcos de gobernanza tecnológica. La responsabilidad ética en el desarrollo, implementación y uso de tecnologías emergentes se convierte en un imperativo. La creación de políticas y regulaciones que aborden cuestiones como la privacidad, la equidad y la transparencia se vuelve esencial para garantizar un desarrollo tecnológico ético y sostenible.    ",
+
+    "finalTitulo": "Realidad Extendida: Integrando lo Virtual y lo Real",
+
+    "slider1": [
+      "/public/perspectivasFuturas/a.jpeg",
+      "/public/perspectivasFuturas/b.jpeg",
+      "/public/perspectivasFuturas/c.jpeg",
+      "/public/perspectivasFuturas/d.jpeg"
+    ],
+
+    "slider2": [
+      "/public/perspectivasFuturas/e.jpeg",
+      "/public/perspectivasFuturas/f.jpeg",
+      "/public/perspectivasFuturas/g.jpeg",
+      "/public/perspectivasFuturas/h.jpeg",
+      "/public/perspectivasFuturas/i.jpeg"
+    ],
+
+    "img": [
+      "/public/perspectivasFuturas/j.jpeg",
+      "/public/perspectivasFuturas/k.jpeg",
+      "/public/perspectivasFuturas/l.jpeg"
+    ]
+  },
+  "historia": {
+    "titulo1": "HISTORIA DE LAS COMPUTADORAS DESDEE LOS INICIOS HASTA LA ACTUALIDAD",
+    "text1": "En los albores de la historia, la necesidad de realizar cálculos llevó al desarrollo de dispositivos mecánicos como el ábaco en civilizaciones antiguas. Sin embargo, la visión de una máquina calculadora automatizada se materializó con los diseños de Charles Babbage, quien propuso la Máquina Analítica en el siglo XIX, estableciendo los fundamentos teóricos de las computadoras modernas.",
+
+    "titulo2": "La Era de las Primeras Computadoras Electromecánicas",
+    "text2": "Durante la Segunda Guerra Mundial, surgieron las computadoras electromecánicas, como la Mark I en Harvard y la ENIAC en la Universidad de Pensilvania. Estas máquinas, enormes y dedicadas a cálculos científicos y militares, marcaron la transición a la era electrónica, con la capacidad de realizar cálculos más rápidos y complejos que sus predecesoras",
+
+    "titulo3": "La Revolución de la Computación Gráfica y las Redes",
+    "text3": " En las décadas de 1980 y 1990, la computación gráfica experimentó avances significativos con la introducción de interfaces gráficas de usuario (GUI) y sistemas operativos como Windows y macOS. Además, el auge de las redes de computadoras y la aparición de Internet transformaron la forma en que las personas se conectan y comparten información a nivel global. En el cambio hacia el siglo XXI, la computación móvil se convirtió en un fenómeno con la introducción de smartphones y tablets. Simultáneamente, la computación en la nube revolucionó la accesibilidad a recursos y servicios, permitiendo almacenamiento y colaboración remotos. Se destacan desarrollos clave como la aparición de Android e iOS en la década de 2000.",
+
+    "finalText1": "La última década ha presenciado una integración significativa de la inteligencia artificial en la informática. Asistentes virtuales, sistemas de reconocimiento de voz y algoritmos de aprendizaje automático han ganado prominencia. La exploración de la computación cuántica promete transformar la capacidad de procesamiento y resolver problemas complejos de manera revolucionaria. Se exploran tendencias emergentes, como la computación cuántica, la realidad aumentada y virtual, así como la interconexión avanzada de dispositivos en el Internet de las cosas (IoT). La reflexión sobre cómo la tecnología continuará evolucionando y su impacto en la sociedad futura.    ",
+    "finalText2": "En la década de 1970, la Altair 8800 y el Apple I fueron pioneros en la era de las computadoras personales. La década de 1980 presenció la popularización de las PCs con sistemas operativos como MS-DOS y el lanzamiento de la IBM PC en 1981, marcando un cambio significativo hacia la computación accesible para el público en general. La sociedad actual enfrenta desafíos éticos y sociales, como la privacidad y la seguridad en la era digital. Los avances en inteligencia artificial plantean preguntas sobre la autonomía y el impacto en la sociedad, mientras que los éxitos tecnológicos incluyen desarrollos de hardware más eficientes y la expansión de la Internet de las cosas (IoT).",
+
+    "finalTitulo": "Desafíos y Éxitos Contemporáneos",
+
+    "slider1": [
+      "/public/historia/1.jpeg",
+      "/public/historia/2.jpeg",
+      "/public/historia/3.jpeg",
+      "/public/historia/4.jpeg",
+      "/public/historia/5.jpeg",
+      "/public/historia/6.jpeg",
+      "/public/historia/7.jpeg",
+      "/public/historia/8.jpeg"
+    ],
+
+    "slider2": [
+      "/public/historia/9.jpeg",
+      "/public/historia/10.jpeg",
+      "/public/historia/11.jpeg",
+      "/public/historia/12.jpeg",
+      "/public/historia/13.jpeg",
+      "/public/historia/14.jpeg",
+      "/public/historia/15.jpeg",
+      "/public/historia/16.jpeg",
+      "/public/historia/17.jpeg"
+    ],
+
+    "img": [
+      "/public/historia/18.jpeg",
+      "/public/historia/19.jpeg",
+      "/public/historia/20.jpeg"
+    ]
+  },
+  "comparacionDeGeneraciones": {
+    "titulo1": "COMPARACIÓN DE GENERACIONES DE COMPUTADORAS",
+    "text1": "Cada generación ha dejado un impacto significativo en la sociedad. Desde las transformaciones en la vida cotidiana con la introducción de computadoras personales en la cuarta generación hasta la revolución en la forma de trabajar con la inteligencia artificial en la quinta generación. Se han producido cambios económicos, educativos y culturales, junto con desafíos éticos y debates sobre el papel de la tecnología en la sociedad. Cada generación ha enfrentado desafíos y ha introducido avances tecnológicos significativos. Desde superar limitaciones técnicas, como la velocidad y capacidad de procesamiento, hasta la introducción de nuevas tecnologías disruptivas, como la inteligencia artificial y la computación cuántica en la quinta generación. Los desafíos éticos, de privacidad y de seguridad han acompañado estos avances, generando reflexiones críticas sobre la responsabilidad tecnológica.",
+
+    "titulo2": "POTENCIA DE PROCESAMIIENTO:",
+    "text2": "La potencia de procesamiento ha experimentado una evolución notable a lo largo de las generaciones de computadoras. Desde la ejecución secuencial de instrucciones en las primeras generaciones hasta la capacidad de procesamiento paralelo y distribuido en la actualidad. La introducción del microprocesador en la cuarta generación marcó un hito, permitiendo una mayor integración y rendimiento en las CPUs. En la quinta generación, el enfoque en la inteligencia artificial ha llevado a procesadores especializados y arquitecturas avanzadas para abordar tareas complejas",
+
+    "titulo3": "Tamaño y Portabilidad:",
+    "text3": " La evolución del tamaño y la portabilidad refleja la miniaturización y la movilidad de las computadoras a lo largo del tiempo. Desde las enormes mainframes de las primeras generaciones hasta las laptops ultradelgadas y dispositivos móviles de la actualidad. El progreso tecnológico, como la reducción de componentes y el desarrollo de materiales más ligeros, ha permitido la creación de dispositivos más compactos y portátiles.",
+
+    "finalText1": "La capacidad de almacenamiento ha experimentado un crecimiento exponencial. Desde los primeros sistemas que utilizaban cintas magnéticas hasta los actuales discos duros de alta capacidad y dispositivos de almacenamiento sólido. La cuarta generación introdujo discos duros más compactos y eficientes. La quinta generación exploró nuevas formas de almacenamiento, como la computación cuántica, con un potencial impacto revolucionario en la capacidad de procesamiento y almacenamiento.",
+    "finalText2": "La evolución de la interfaz de usuario ha pasado de las interfaces de línea de comandos de las primeras generaciones a las interfaces gráficas de usuario (GUI) en la cuarta generación. La quinta generación ha experimentado una mayor personalización y adaptación con interfaces intuitivas, interacción por voz y reconocimiento de gestos. La experiencia del usuario se ha vuelto más inmersiva y centrada en la inteligencia artificial. La conectividad ha pasado de las primeras redes locales simples a la expansión global de Internet y las conexiones inalámbricas. La cuarta generación vio el surgimiento de protocolos como TCP/IP que facilitaron la conectividad global. La quinta generación se ha centrado en la conexión masiva de dispositivos a través de Internet de las cosas (IoT) y en el desarrollo de redes 5G para una comunicación más rápida y eficiente.",
+
+    "finalTitulo": "Almacenamiento y Capacidad:",
+
+    "slider1": [
+      "/public/comparacionDeGeneraciones/a.jpeg",
+      "/public/comparacionDeGeneraciones/b.jpeg",
+      "/public/comparacionDeGeneraciones/c.jpeg",
+      "/public/comparacionDeGeneraciones/d.jpeg",
+      "/public/comparacionDeGeneraciones/e.jpeg",
+      "/public/comparacionDeGeneraciones/f.jpeg",
+      "/public/comparacionDeGeneraciones/g.jpeg",
+      "/public/comparacionDeGeneraciones/h.jpeg",
+      "/public/comparacionDeGeneraciones/i.jpeg",
+      "/public/comparacionDeGeneraciones/j.jpeg"
+    ],
+
+    "slider2": [
+      "/public/comparacionDeGeneraciones/k.jpeg",
+      "/public/comparacionDeGeneraciones/l.jpeg",
+      "/public/comparacionDeGeneraciones/m.jpeg",
+      "/public/comparacionDeGeneraciones/n.jpeg",
+      "/public/comparacionDeGeneraciones/o.jpeg",
+      "/public/comparacionDeGeneraciones/p.jpeg",
+      "/public/comparacionDeGeneraciones/q.jpeg",
+      "/public/comparacionDeGeneraciones/r.jpeg",
+      "/public/comparacionDeGeneraciones/s.jpeg",
+      "/public/comparacionDeGeneraciones/t.jpeg",
+      "/public/comparacionDeGeneraciones/x.jpeg"
+    ],
+
+    "img": [
+      "/public/comparacionDeGeneraciones/u.jpeg",
+      "/public/comparacionDeGeneraciones/v.jpeg",
+      "/public/comparacionDeGeneraciones/w.jpeg"
+    ]
+  }
+}

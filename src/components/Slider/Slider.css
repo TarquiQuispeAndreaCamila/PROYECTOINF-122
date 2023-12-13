@@ -1,0 +1,48 @@
+/* Slider.css */
+.slider {
+  position: relative;
+  width: 95%;
+  /* max-width: 600px; */
+  margin: 0 auto;
+}
+
+.slide {
+  width: 100%;
+  /* max-width: 400px; */
+  max-height: 600px;
+  height: auto;
+  object-fit: contain;
+}
+
+#arrow {
+  width: 50px;
+  height: 50px;
+  border: 1px solid white;
+  border-radius: 50%;
+  transform: translateY(-50%);
+}
+.arrow-right {
+  color: white;
+  position: absolute;
+  top: 50%;
+  /* transform: translateY(-50%); */
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.arrow-left {
+  color: white;
+  position: absolute;
+  top: 50%;
+  /* transform: translateY(-50%); */
+  transform: translateX(-100%);
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+#arrow:focus {
+  outline: none;
+}

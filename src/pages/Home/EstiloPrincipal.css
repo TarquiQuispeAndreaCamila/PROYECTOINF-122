@@ -1,0 +1,276 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Josefin Sans";
+  /* background: url("13.jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-color: #0a1818;
+}
+/*nav */
+header {
+  width: 100%;
+  background-color: #0a1818ad;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  text-decoration: dotted;
+  color: #daf4cf;
+  left: 0;
+  top: 0;
+  padding-bottom: 15px;
+  display: inline-block;
+}
+header a {
+  padding: 5px 12px;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(2, 2, 7);
+}
+header nav a:hover {
+  color: rgb(128, 229, 229);
+}
+
+.logo img {
+  width: 400px;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 3em;
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 80%;
+  margin: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding: 0;
+  background-color: transparent;
+  overflow: hidden;
+}
+
+li {
+  padding: 0rem 1.1rem;
+  /* float: left; */
+}
+
+li a {
+  color: #332b2b;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+}
+
+li a.active,
+li a:hover {
+  color: #000;
+  transition: all 0.3s ease-in-out;
+}
+
+#click {
+  display: none;
+}
+
+.menu {
+  display: none;
+}
+.nav-btn .btn {
+  background: #000;
+  color: #fff;
+  padding: 0.6rem;
+  border-radius: 0.4rem;
+  border: 2px solid;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-family: "Josefin Sans";
+}
+.nav-btn .btn:nth-child(1) {
+  border: 1px solid #000;
+  background: transparent;
+  color: #000;
+}
+
+@media only screen and (max-width: 1024px) {
+  nav {
+    max-width: 98%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 80%;
+  }
+
+  nav {
+    max-width: 100%;
+    margin: 0 1rem;
+  }
+  img {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 616px) {
+  header {
+    height: auto;
+  }
+
+  li {
+    padding: 1rem 1.1rem;
+  }
+
+  .menu {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #000;
+    background: red;
+  }
+
+  ul {
+    background: #fff;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    top: 3.5rem;
+    left: -100%;
+    z-index: 111111;
+  }
+
+  #click:checked ~ ul {
+    left: 0%;
+    transition: all 0.3s ease;
+  }
+  .nav-btn {
+    position: absolute;
+    right: 4rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  html {
+    font-size: 85%;
+  }
+  .nav-btn {
+    display: none;
+  }
+}
+
+#navegador {
+  width: 100%;
+  height: auto;
+  background-color: rgba(167, 236, 178, 0.548);
+}
+#navegador nav ul {
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h2 {
+  color: #7e5039;
+  font-size: 2em;
+}
+
+#contenedor {
+  color: #daf4cf;
+
+  padding: 20px;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+
+  border-style: solid;
+  background-color: #f6d11581;
+  border-radius: 8px;
+  border-color: #f6d015;
+  align-items: center;
+}
+#introduccion {
+  background-color: #28f61500;
+  width: 55%;
+  display: inline-block;
+}
+#Carrusel {
+  width: 40%;
+  height: 200px;
+  border-style: solid;
+  background-color: #dc15f681;
+  border-radius: 8px;
+  border-color: #f6d015;
+  display: inline-block;
+  align-items: center;
+  align-items: center;
+  display: inline-block;
+}
+.Carrusel img {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+footer .Autor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: rgba(255, 254, 254, 0.349);
+  color: #4fece5;
+  padding-top: 5vh;
+  padding-bottom: auto;
+  font-size: medium;
+}
+footer a {
+  padding: 5px 12px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: rgba(0, 0, 0, 0.781);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+footer a:hover {
+  color: rgb(128, 229, 229);
+}
+
+/*
+#videoFondo {
+    transform: rotate(90deg);
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1; /* Coloca el video detrás del contenido 
+}
+*/
+
+#cards {
+  margin: 5vh 3%;
+  display: flex;
+  justify-content: space-between;
+}

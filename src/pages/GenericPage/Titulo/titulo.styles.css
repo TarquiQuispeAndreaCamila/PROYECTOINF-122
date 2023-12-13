@@ -1,0 +1,16 @@
+#titulo {
+  display: flex;
+  margin: 5vh 3%;
+  justify-content: center;
+  align-items: center;
+}
+
+#titulo span {
+  margin-right: 3%;
+  font-size: 3rem;
+}
+/* #titulo img { */
+/*   width: 100px; */
+/*   height: 100px; */
+/*   object-fit: cover; */
+/* } */

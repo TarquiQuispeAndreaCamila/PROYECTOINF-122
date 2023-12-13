@@ -1,0 +1,13 @@
+#evol {
+  color: rgb(255, 255, 255);
+  font-size: 1.3em;
+  width: 94%;
+  margin: 3vh 3%;
+  display: flex;
+}
+h2{
+  color: aqua;
+}
+#text_evol {
+  width: 50%;
+}

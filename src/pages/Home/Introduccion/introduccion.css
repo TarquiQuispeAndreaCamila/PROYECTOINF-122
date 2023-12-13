@@ -1,0 +1,25 @@
+#intro {
+  color: white;
+  font-size: 1.2em;
+  margin: 10vh 3%;
+  display: flex;
+}
+
+img {
+  width: 300px;
+}
+
+#text {
+  padding: 1%;
+}
+#floating {
+  animation: floatAnimation 1s infinite alternate;
+}
+@keyframes floatAnimation {
+  0% {
+    transform: translate(0);
+  }
+  100% {
+    transform: translate(-20px);
+  }
+}

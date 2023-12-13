@@ -1,0 +1,30 @@
+#page {
+  color: white;
+
+  /* text-align: center; */
+}
+#section2 {
+  font-size: 1.5em;
+  margin: 3vh 3%;
+  display: flex;
+}
+#section3 {
+  font-size: 1.5em;
+  margin: 3vh 3%;
+  display: flex;
+}
+
+#section3 span {
+  font-size: 1.5em;
+  padding: 0.3%;
+  font-size: 3rem;
+}
+#section2 img {
+  padding: 0.4%;
+}
+
+.text-generic {
+  font-size: 1.5em;
+  margin: 3vh 3%;
+
+}
